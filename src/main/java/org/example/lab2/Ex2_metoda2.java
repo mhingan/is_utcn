@@ -29,7 +29,6 @@ public class Ex2_metoda2 {
 
         System.out.println("Cmmdc pentru numerele " + numere[0] + " si " + numere[1] + " este " + cmmdc);
 
-
     }
 
     //functie care determina cmmdc
